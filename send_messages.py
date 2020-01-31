@@ -9,7 +9,6 @@ class Yqts(object):
         headers = {"Content-Type": "application/json; charset=utf-8"}
         text= "#### %s 感染: \n >全国截止 %s: \n\n > - 确诊病例:%s \n\n > - 疑似病例:%s \n\n > - 死亡人数:%s \n\n > - 治愈人数:%s  \n\n > - "\
               "\n > %s数据： \n\n > - 确诊病例:%s \n\n > - 疑似病例:%s \n\n > - 死亡人数:%s \n\n > - 治愈人数:%s  \n\n > -"\
-              "\n > 各城市明细数据： \n\n > - 确诊病例:%s \n\n > - 疑似病例:%s \n\n > - 死亡人数:%s \n\n > - 治愈人数:%s  \n\n > -"\
               "![screenshot](%s)\n  > "\
               "![screenshot](%s)\n  > "\
               "###### 数据来自 [丁香园-丁香医生](https://3g.dxy.cn/newh5/view/pneumonia)"\
