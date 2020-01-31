@@ -21,7 +21,7 @@ dingding_url = "https://oapi.dingtalk.com/robot/send?access_token=填写access_t
 #### 推送内容
 
 - 推送全国统计数据
-- 自定义所在省份数据送
+- 自定义所在省份数据
 
 第55行，可自定义省份名称推送省份数据。
 
